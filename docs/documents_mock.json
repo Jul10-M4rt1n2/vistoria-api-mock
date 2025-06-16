@@ -3,7 +3,7 @@
     {
       "id": "doc001",
       "name": "Projeto Arquitetônico",
-      "url": "https://meurepo.github.io/docs/projeto_arquitetonico.pdf",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/projeto_arquitetonico.pdf",
       "category": "PROJETO",
       "downloaded": false,
       "size": "2.5 MB",
@@ -13,7 +13,7 @@
     {
       "id": "doc002",
       "name": "Requerimento de Aprovação",
-      "url": "https://meurepo.github.io/docs/requerimento_aprovacao.pdf",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/requerimento_aprovacao.pdf",
       "category": "REQUERIMENTO",
       "downloaded": true,
       "size": "1.2 MB",
@@ -23,7 +23,7 @@
     {
       "id": "doc003",
       "name": "Memorando Técnico",
-      "url": "https://meurepo.github.io/docs/memorando_tecnico.pdf",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/memorando_tecnico.pdf",
       "category": "DIVERSOS",
       "downloaded": false,
       "size": "3.1 MB",
