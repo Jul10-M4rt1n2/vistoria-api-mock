@@ -3,7 +3,7 @@
     {
       "id": "doc001",
       "name": "Nome do documento no SCI / Nome do arquivo 1",
-      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/projeto_arquitetonico.pdf",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/1748865807.jpg",
       "category": "PROJETO",
       "downloaded": false,
       "size": "2.5 MB",
@@ -33,7 +33,7 @@
     {
       "id": "doc004",
       "name": "Nome do documento no SCI / Nome do arquivo 1",
-      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/requerimento_aprovacao.pdf",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/fotomonique.jpg",
       "category": "REQUERIMENTO",
       "downloaded": true,
       "size": "1.2 MB",
